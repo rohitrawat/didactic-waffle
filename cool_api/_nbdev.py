@@ -6,8 +6,8 @@ index = {"say_hello": "00_core.ipynb"}
 
 modules = ["core.py"]
 
-doc_url = "https://rohitrawat.github.io/cool_api/"
+doc_url = "https://rohitrawat.github.io/didactic-waffle/"
 
-git_url = "https://github.com/rohitrawat/cool_api/tree/master/"
+git_url = "https://github.com/rohitrawat/didactic-waffle/tree/master/"
 
 def custom_doc_links(name): return None
