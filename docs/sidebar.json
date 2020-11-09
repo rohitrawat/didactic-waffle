@@ -2,6 +2,6 @@
   "cool_api": {
     "Overview": "/",
     "Sim API": "core.html",
-    "module name here": "client.html"
+    "Client": "client.html"
   }
 }

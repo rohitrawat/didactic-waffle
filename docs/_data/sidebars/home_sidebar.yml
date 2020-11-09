@@ -13,7 +13,7 @@ entries:
       title: Sim API
       url: core.html
     - output: web,pdf
-      title: module name here
+      title: Client
       url: client.html
     output: web
     title: cool_api
